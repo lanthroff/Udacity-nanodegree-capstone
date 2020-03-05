@@ -4,12 +4,19 @@
 # Dependencies
  The following libraries are require to run the notebook:
  	• scikit-learn
+
  	• seaborn
+
  	• matplotlib
+
  	• numpy
+
  	• pandas
+
  	• scikit-optimize
+
  	• lightgbm
+ 	
  	• xgboost
 
 # Files
