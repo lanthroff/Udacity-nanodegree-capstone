@@ -3,6 +3,7 @@
 
 # Dependencies
  The following libraries are require to run the notebook:
+ 
  	• scikit-learn
 
  	• seaborn
@@ -16,7 +17,7 @@
  	• scikit-optimize
 
  	• lightgbm
- 	
+
  	• xgboost
 
 # Files
